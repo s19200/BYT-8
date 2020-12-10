@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="refactoring-exercises/exercise-02/src"/>
+	<classpathentry kind="src" path="refactoring-exercises/exercise-04/src"/>
+	<classpathentry kind="src" path="refactoring-exercises/exercise-01/src"/>
+	<classpathentry kind="src" path="refactoring-exercises/exercise-03/src"/>
+	<classpathentry kind="src" path="refactoring-exercises/exercise-05/src"/>
+	<classpathentry kind="src" path="refactoring-exercises/exercise-06/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-13.0.1">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
